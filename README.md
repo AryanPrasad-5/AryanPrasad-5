@@ -2,7 +2,7 @@
 
 # Hi, I'm Aryan Prasad
 
-### B.Tech CSE Student | Bangalore, India 
+### B.Tech CSE Student | Bangalore, India
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AryanPrasad-5&label=Profile%20Views&color=6EE7B7&style=flat-square&labelColor=0d1117)
 
@@ -12,13 +12,13 @@
 
 ## About Me
 
-- B.Tech in Computer Science & Engineering from Bangalore
-- - Passionate about building scalable backend systems & web apps
-  - - Exploring Web3 & smart contract development
-    - - Experimenting with algorithmic trading strategies
-      - - Open source contributor - contributed to OpenEverest
-        - - Currently learning distributed systems & cloud-native patterns
-          - - Reach me at mailforaryan05@gmail.com
+- B.Tech in **Computer Science & Engineering** from Bangalore
+- - Passionate about building **scalable backend systems** & **web apps**
+  - - Exploring **Web3** & **smart contract development**
+    - - Experimenting with **algorithmic trading** strategies
+      - - Open source contributor -- contributed to **OpenEverest**
+        - - Currently learning **distributed systems** & **cloud-native** patterns
+          - - Reach me at **mailforaryan05@gmail.com**
            
             - ---
 
@@ -58,10 +58,10 @@
 
             ## Featured Projects
 
-            - [Algo-Trading](https://github.com/AryanPrasad-5/Algo-Trading) - Advanced market sentiment analyzer using real-time PCR, Open Interest & India VIX
-            - - [Payment Monitoring System](https://github.com/AryanPrasad-5/-Payment-Transaction-Monitoring-and-Analytics-System) - Real-time transaction monitoring with Go, gRPC & PostgreSQL
-              - - [Web3 Gradebook](https://github.com/AryanPrasad-5/Web3-Gradebook) - Blockchain-based gradebook using Solidity smart contracts
-                - - [OpenEverest](https://github.com/AryanPrasad-5/openeverest) - Contributing to open-source database provisioning on Kubernetes
+            - [Algo-Trading](https://github.com/AryanPrasad-5/Algo-Trading) -- Advanced market sentiment analyzer using real-time PCR, Open Interest & India VIX
+            - - [Payment Monitoring System](https://github.com/AryanPrasad-5/-Payment-Transaction-Monitoring-and-Analytics-System) -- Real-time transaction monitoring with Go, gRPC & PostgreSQL
+              - - [Web3 Gradebook](https://github.com/AryanPrasad-5/Web3-Gradebook) -- Blockchain-based gradebook using Solidity smart contracts
+                - - [OpenEverest](https://github.com/AryanPrasad-5/openeverest) -- Contributing to open-source database provisioning on Kubernetes
                  
                   - ---
 
@@ -81,3 +81,4 @@
                   *Thanks for visiting! Let's build something amazing together*
 
                   </div>
+                  
